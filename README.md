@@ -1,6 +1,6 @@
 # FourierKAN, LaplaceKAN, Wavelet-KAN and Legendre KAN
 
-# PyTorch Layers for FourierKAN, LaplaceKAN, Wavelet-KAN, and LegendreKAN
+PyTorch Layers for FourierKAN, LaplaceKAN, Wavelet-KAN, and LegendreKAN
 
 ## Overview
 This repository provides custom PyTorch layers designed as replacements for traditional linear layers followed by non-linear activations in neural network architectures. These layers are inspired by Kolmogorov-Arnold Networks (KAN) and utilize 1D Fourier, Laplace, Wavelet, or Legendre polynomial coefficients. By leveraging these mathematical transformations, these layers aim to provide efficient and numerically stable alternatives to spline-based methods commonly used in neural networks.
